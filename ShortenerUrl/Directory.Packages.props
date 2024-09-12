@@ -3,6 +3,8 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
+    <PackageVersion Include="Microsoft.Orleans.Core.Abstractions" Version="8.2.0" />
+    <PackageVersion Include="Microsoft.Orleans.Server" Version="8.2.0" />
     <PackageVersion Include="Akka" Version="1.5.28" />
     <PackageVersion Include="AutoMapper" Version="13.0.1" />
     <PackageVersion Include="BCrypt.Net-Next" Version="4.0.3" />
